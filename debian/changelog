@@ -1,0 +1,42 @@
+pragha (1.4.huayra0-1) experimental; urgency=medium
+
+  * Rebuild Pragha 1.4 beta0 to test Ampache plugin.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 13 Nov 2015 14:38:47 -0300
+
+pragha (1.3.3-2) experimental; urgency=medium
+
+  * Rebuild with Lastfm plugin 
+   - Allows adding similar songs to make radios.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 22 Oct 2015 12:28:50 -0300
+
+pragha (1.3.3-1) experimental; urgency=medium
+
+  * Update to Pragha 1.3.3
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 23 Sep 2015 22:43:20 -0300
+
+pragha (1.3.2.2-1) experimental; urgency=medium
+
+  * Update to Pragha 1.3.2.2
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 05 Jun 2015 11:28:08 -0300
+
+pragha (1.3.2.1-2) experimental; urgency=medium
+
+  * Rebuild with session support.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Mon, 20 Apr 2015 11:46:57 -0300
+
+pragha (1.3.2.1-1) stable; urgency=medium
+
+  * Update to Pragha 1.3.2.1
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 12 Mar 2015 15:41:42 -0300
+
+pragha (1.2.3-1) stable; urgency=medium
+
+  * Initial release
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 18 Dec 2014 14:01:22 -0300
